@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=94cstyles&hide_title=true&theme=dracula" />
+
+Hi ~
 
 <!--
 **94cstyles/94cstyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
